@@ -1,6 +1,6 @@
 
 html, body, header { 
-  background: url(../img/sand.jpg); 
+  background-color: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -8,7 +8,7 @@ html, body, header {
 }
 
 #head {
-     background: url(../img/gold1.); 
+      background-color: white;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
