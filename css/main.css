@@ -1,6 +1,6 @@
 
-html, body, header { 
-  background-color: white;
+html, body, header, #head { 
+   background: url(../img/math.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -22,8 +22,12 @@ html, body, header {
     font-size: 1.2em;
 }
 #me {
+    font-size: 2.8em;
     color: Blue;
     font-family: Open Sans;
+}
+#me1 {
+  padding-top: 7%;
 }
 
 
@@ -34,6 +38,7 @@ html, body, header {
 }
 
 #about {
+  padding-top: 3%;
   font-size: 1.2em;
   line-height: .9em;
   color: #f4f8ff;
